@@ -1,0 +1,8 @@
+main: "report.ipynb"
+title: "What does Intercom say about your business?"
+description: "Graphing various metrics from our Intercom data to gain valuable insights about the business."
+preview: "images/intercom.png"
+tags:
+  - intercom
+  - plotly
+  - user analytics
